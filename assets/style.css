@@ -1,0 +1,144 @@
+.wrapper {
+	width: 650px;
+	margin: 0 auto 0 auto;
+}
+
+h2 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #4aaaa5;
+}
+
+
+header {
+	background: red;
+	text-align: center;
+	position: relative;
+		top: 0;
+		left: 0;
+	
+		right: 0;
+	height: 67px;
+}
+
+#nameTag {
+	/* width: 200px;
+	position: absolute;
+		left: 320px;
+	 */
+	position: absolute;
+	left: 0;
+
+	background: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	padding-left: 30px;
+	padding-right: 30px;
+	
+}
+
+#links {
+	/* width: 100px; */
+	position: absolute;
+	right: 0;		
+
+	
+	height: 42px;
+	padding-top: 25px;
+	
+	background: silver;
+}
+
+body {
+	clear:both;
+	background: #ffffff;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+}
+
+#main {
+
+}
+
+#aboutMe {
+	float:left;	
+	background: brown;
+	text-align: left;
+	width: 400px;
+	padding: 10px;
+}
+
+#profilePic {
+	float: left;
+	padding: 10px;
+}
+
+#profileDoc {
+	
+
+}
+
+#connectLinks {
+	float:right;	
+	background: green;
+	text-align: left;
+	padding: 10px;
+	
+}
+
+
+.formFormat {
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+
+#portfolioSection {
+
+}
+
+.porfolioLink {
+	position: relative;
+	float:left;
+	background: green;
+	padding: 50px;
+	
+}
+
+.porfolioLinkLeft {
+	position: relative;
+	float:left;
+	background: orange;
+	padding: 50px;
+	
+}
+
+.porfolioLinkRight {
+	position: relative;
+	float:right;
+	background: cyan;
+	padding: 50px;
+	
+}
+
+
+
+.portfolioText {
+	position: absolute;
+	background: blue;
+	bottom: 40px;
+	width: 200px;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #4aaaa5;
+
+}
+
+footer {
+	background: #666666;
+	text-align: center;
+	position: fixed;
+		left: 0;
+		bottom: 0;
+		right: 0;
+	height: 30px;
+	padding-top: 10px;
+}
