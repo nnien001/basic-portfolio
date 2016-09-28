@@ -70,7 +70,6 @@ body {
 main {
 	clear:both;
 	margin-top: 30px;
-
 }
 
 #aboutMe {
@@ -79,6 +78,7 @@ main {
 	text-align: left;
 	width: 640px;
 	padding: 20px;
+	margin-bottom: 60px;
 	border: solid;
 	border-color: #dddddd;
 
